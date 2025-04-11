@@ -9,12 +9,14 @@ import "./index.css";
 
 
 
+
 createRoot(document.getElementById('root')).render(
   
   <BrowserRouter>
     <StrictMode>
       <App />
       {/* <Navbar/> */}
+      
     </StrictMode>
   </BrowserRouter>
 

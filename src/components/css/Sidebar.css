@@ -11,6 +11,8 @@
   display: flex;
   flex-direction: column;
   padding-top: 10px;
+ 
+  
 }
 .sidebar.collapsed {
   width: 60px;
@@ -79,4 +81,4 @@
 hr{
   border-top: 0.5px solid var(--navbar-light-primary);
   opacity: 0.5;
-}
+} 
