@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Underdog&display=swap');
+
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box !important;
+    font-family: "Underdog", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    
+}
+:root {
+    --navbar-dark-primary: #272727;
+    --navbar-dark-secondary: #5a5a5a;
+    --navbar-light-primary: #ffffff;
+    --navbar-light-secondary: blue;
+  }
