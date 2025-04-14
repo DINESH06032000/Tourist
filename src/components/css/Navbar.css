@@ -11,6 +11,10 @@
 }
 
 .navbar_row {
+<<<<<<< HEAD
+=======
+  border-left: 0.03125rem solid rgba(255, 255, 255, 0.562);
+>>>>>>> 04629013735e9707bbb8837826479295cc6d5641
   background-color: var(--navbar-dark-primary);
   border-left: 1px solid rgba(255, 255, 255, 0.562);
 }
@@ -44,7 +48,7 @@
 }
 
 .navbar_top {
-  height: 54px;
+  height:3.344rem;
   display: flex;
   justify-content: space-between;
   /* align-items: center; */
