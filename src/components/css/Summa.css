@@ -103,7 +103,7 @@ hr {
   /* width: 80%; */
   z-index: 999;
   background-color: var(--navbar-dark-primary);
-  height: 61px;
+  height: 60px;
   border-bottom: 0.5px solid #ffffffa2;
   border-left: 0.5px solid #ffffff96;
   transition: left 0.3s ease, width 0.3s ease;
@@ -134,7 +134,7 @@ hr {
   align-items: center;
   width: 100%;
   padding: 0 10px;
-  height: 61px;
+  height: 60px;
 }
 
 
