@@ -43,7 +43,7 @@ const Summa = () => {
                     </button>
                 </div>
                 <hr />
-                <ul className="nav flex-column mt-1">
+                <ul className="nav flex-column ">
                     <li className="nav-item">
                         <Link to="/" className="nav-link">
                             <TiHome className="fonticon" />
@@ -113,8 +113,7 @@ const Summa = () => {
 
                 {/* Route Content */}
                 <div className="page-content">
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptates modi autem nobis vero. Dolor vitae vel aliquam fugiat tempora deserunt quam officia nihil aperiam expedita! Sapiente minus distinctio officia ex eum ipsa quia aperiam odit, delectus fugiat repellat iste pariatur eveniet laudantium? Asperiores harum quae exercitationem sint, ea consectetur ex fugiat ullam, ratione temporibus odit perferendis. Voluptates facere unde cumque, obcaecati ex ipsa culpa animi recusandae reprehenderit veritatis maiores voluptatem asperiores qui quae, aliquid distinctio. Ex laudantium excepturi quod quo veritatis alias ducimus perspiciatis recusandae nobis consectetur explicabo, accusamus obcaecati in cupiditate? At quis tempora ipsum voluptas voluptatibus aperiam expedita sunt enim dolore molestiae, incidunt architecto vel nulla neque cumque alias veritatis consectetur quibusdam dolores odit. Id cum maxime, eos iste harum necessitatibus distinctio nostrum voluptatem nobis qui rem ex a ullam ducimus, iusto reprehenderit et fuga sint officia laudantium dolore porro! Deleniti, eos ab accusamus quos animi in sapiente, quis delectus fuga voluptatem, deserunt minus fugiat! Nulla quos repudiandae in quo numquam quae nisi deserunt? Enim voluptate distinctio accusantium nostrum consequatur fuga vel temporibus quisquam deleniti veritatis rerum ad, minima voluptates dolore. Doloremque tempore laborum obcaecati cupiditate iusto id quibusdam, tempora, odio ab qui sint autem eveniet labore!
-                    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Impedit voluptates modi autem nobis vero. Dolor vitae vel aliquam fugiat tempora deserunt quam officia nihil aperiam expedita! Sapiente minus distinctio officia ex eum ipsa quia aperiam odit, delectus fugiat repellat iste pariatur eveniet laudantium? Asperiores harum quae exercitationem sint, ea consectetur ex fugiat ullam, ratione temporibus odit perferendis. Voluptates facere unde cumque, obcaecati ex ipsa culpa animi recusandae reprehenderit veritatis maiores voluptatem asperiores qui quae, aliquid distinctio. Ex laudantium excepturi quod quo veritatis alias ducimus perspiciatis recusandae nobis consectetur explicabo, accusamus obcaecati in cupiditate? At quis tempora ipsum voluptas voluptatibus aperiam expedita sunt enim dolore molestiae, incidunt architecto vel nulla neque cumque alias veritatis consectetur quibusdam dolores odit. Id cum maxime, eos iste harum necessitatibus distinctio nostrum voluptatem nobis qui rem ex a ullam ducimus, iusto reprehenderit et fuga sint officia laudantium dolore porro! Deleniti, eos ab accusamus quos animi in sapiente, quis delectus fuga voluptatem, deserunt minus fugiat! Nulla quos repudiandae in quo numquam quae nisi deserunt? Enim voluptate distinctio accusantium nostrum consequatur fuga vel temporibus quisquam deleniti veritatis rerum ad, minima voluptates dolore. Doloremque tempore laborum obcaecati cupiditate iusto id quibusdam, tempora, odio ab qui sint autem eveniet labore!
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Explicabo, atque.
                     <Outlet />
                 </div>
             </div>
