@@ -1,6 +1,5 @@
 import React, { useState, useEffect } from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
-import "./css/Sidebar.css";
 import { TiLocationArrow } from "react-icons/ti";
 import { IoMdContacts } from "react-icons/io";
 import { CgMenuGridR } from "react-icons/cg";
