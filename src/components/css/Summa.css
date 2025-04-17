@@ -104,8 +104,8 @@ hr {
   z-index: 999;
   background-color: var(--navbar-dark-primary);
   height: 61px;
-  border-bottom: 1px solid #ffffffa2;
-  border-left: 1px solid #ffffff96;
+  border-bottom: 0.5px solid #ffffffa2;
+  border-left: 0.5px solid #ffffff96;
   transition: left 0.3s ease, width 0.3s ease;
   padding: 0% !important;
   --bs-navbar-toggler-border-radius: 0% !important;
